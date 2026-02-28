@@ -22,7 +22,11 @@ void func(double f) {
     cout << "#4" << endl;
 }
 int main() {
+<<<<<<< HEAD
     int a = 123;
+=======
+
+>>>>>>> 9f52a30762a284746dd2242e6aeea76bfdee9be0
     MyStruct test;
     test.a = 4;
     short s = 99;
